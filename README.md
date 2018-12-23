@@ -3,9 +3,9 @@ Mini Project VTU 7th Sem
 
 Download XAMPP
 
-Connect Aache and Mysql(Start).
+Run Apache and Mysqlserver.
 Enter localhost/phpmyadmin/
-Add sis.sql file in phpMyadmin.
+Import sis.sql file in phpMyadmin.
 then
 Enter localhost/projectname in URL.
 :)
